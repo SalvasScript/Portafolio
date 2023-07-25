@@ -49,7 +49,7 @@ In this repository, you will find the files and the source code of my web portfo
 
 ## Link
 
-My live web portfolio is available at [https://salvasscript.github.io/Portfolio/]
+My live web portfolio is available at [https://salvasscript.github.io/Portafolio/]
 
 ## Contact
 
