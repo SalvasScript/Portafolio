@@ -27,3 +27,34 @@ Si tienes alguna pregunta o estás interesado en colaborar, puedes contactarme a
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT.
+
+
+# Web Portfolio - Salvador Sanchez
+
+This is my personal web portfolio, where I show some of the projects I've worked on and highlight my skills as a web developer.
+
+## Overview
+
+In this repository, you will find the files and the source code of my web portfolio. The main objective of this project is to present my work, experience and skills in developing
+
+## Used technology
+
+-HTML
+-CSS
+
+## How to use
+
+1. Clone this repository to your local machine using `git clone`.
+2. Navigate to the project folder and open the `index.html` file in your browser.
+
+## Link
+
+My live web portfolio is available at [https://salvasscript.github.io/Portfolio/]
+
+## Contact
+
+If you have any questions or are interested in collaborating, you can contact me at [salvasanchezscriptoficial@gmail.com].
+
+## License
+
+This project is licensed under the MIT License.
